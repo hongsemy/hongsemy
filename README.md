@@ -20,7 +20,7 @@ This year, in August 2021, I have decided to take a break from school and experi
 
 <h2>📈 Stats 📈</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsemy&theme=dark) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=hongsemy&count_private=true&show_icons=true&hide=contribs&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsemy&theme=dark) <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongsemy&theme=dark" alt="GitHub Stats" />
 
 <h2> 🌱 UofT ITSU 🌱 </h2>
 
