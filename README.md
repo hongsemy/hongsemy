@@ -36,7 +36,10 @@ ITSU (Information Technology Student Union)은 토론토 대학교의 IT와 관�
 
 
 🍁 I am bilingual! I speak both English and Korean.🍁
+
 🌺 저는 한국어와 영어가 가능합니다. 🌺
+
+🇨🇦 🇰🇷
 
 <a href="mailto:ca711207@gmail.com">![ca711207@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "https://www.instagram.com/uoft_itsu/"> ![Instagram](https://img.shields.io/badge/@uoft_itsu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href = "https://uoftitsu.wixsite.com/itsu"> ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)</a>
 
